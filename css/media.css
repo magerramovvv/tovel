@@ -1,0 +1,50 @@
+@media only screen and (max-width: 992px){
+    .right ul{
+        display: none;
+    }
+
+    .container h1{
+        font-size: 3rem;
+    }
+
+    .container p.first-p{
+        margin-left: 0px;
+    }
+
+    .p-keeper2{
+        margin-left: 0px;
+    }
+
+    .fitness-partner .h2-keeper h2{
+        font-size: 2rem;
+    }
+    .get-the-result,.step-counts,.fitness-partner{
+        background-attachment:inherit;
+    }
+    .get-the-result .h2-keeper{
+        font-size: 1rem;
+    }
+
+    #header i{
+        display: block;
+    }
+    .container p.first-p{
+        padding:0px 40px;
+        font-size:1.2em;
+    }
+}
+
+
+
+@media only screen and (max-width: 767px){
+    .container h1{
+        font-size: 1.8rem;
+    }
+
+    .get-started{
+        margin-left: 0px;
+    }
+    
+    
+}
+    
